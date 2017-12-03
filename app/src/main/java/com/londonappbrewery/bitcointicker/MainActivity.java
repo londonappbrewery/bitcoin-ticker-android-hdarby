@@ -32,10 +32,9 @@ public class MainActivity extends AppCompatActivity {
 
     // Constants:
     // TODO: Create the base URL
-    //private final String BASE_URL = "https://apiv2.bitcoinaverage.com/indices/global/ticker/all";
     private final String BASE_URL = "https://apiv2.bitcoinaverage.com/indices/global/ticker/BTC";
-    private final String PUBLIC_KEY = "ZTMyMDZkYjBiMWRkNGI0YmFlYjZiN2FiNGRlNDBjMWY";
-    private final String SECRET_KEY = "N2NkZTQxMjdlN2Y0NDI2YzhmY2UzYmZkYjAyNGEzZjZhOTYxMmYxZmMxNGQ0M2E0YTFmZTVlZDQxZDRmNmM3Yg";
+    private final String PUBLIC_KEY = "xxxxxx";
+    private final String SECRET_KEY = "xxxxxx";
 
     // Member Variables:
     TextView mPriceTextView;
